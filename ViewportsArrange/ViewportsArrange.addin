@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ViewportsArrange</Name>
+    <Assembly>.\ViewportsArrange.dll</Assembly>
+    <FullClassName>ViewportsArrange.App</FullClassName>
+    <ClientId>f09168bf-b50a-4f5b-948e-cf6de12a82e8</ClientId>
+    <VendorId>Archilizer</VendorId>
+    <VendorDescription>Archilizer LTD, http://archilizer.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
